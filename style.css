@@ -71,6 +71,7 @@ header h1 {
     }
 
 #gremio img {
+    width: 300px;
     float: left;
     margin-right: 20px; 
 }
